@@ -1,2 +1,5 @@
-package com.sh0p.project1.domain;public enum Role {
+package com.sh0p.project1.domain;
+
+public enum Role {
+    CLIENT, MANAGER, ADMIN
 }
